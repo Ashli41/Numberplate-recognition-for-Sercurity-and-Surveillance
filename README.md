@@ -44,7 +44,7 @@ model.predict('test_vid.mp4', save=True, imgsz=320, conf=0.2)
 #Features summary:
 
     >Installation of necessary packages.
->Cloning the project repository.
->Training the YOLOv8 model for license plate detection.
->Testing the trained model on a video file.
->Combining detection and recognition using YOLOv8 and easyOCR.
+    >Cloning the project repository.
+    >Training the YOLOv8 model for license plate detection.
+    >Testing the trained model on a video file.
+    >Combining detection and recognition using YOLOv8 and easyOCR.
